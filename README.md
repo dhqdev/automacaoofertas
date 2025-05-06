@@ -1,1 +1,1 @@
-Código completo no gitgnore.
+Código completo no official.
